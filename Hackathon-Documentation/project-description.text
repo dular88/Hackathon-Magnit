@@ -1,0 +1,12 @@
+Project Description:-
+
+This project is created for an organization to check their employee happiness.
+For this there is a Admin panel where Admin can create 'Asking Question with options'.
+Admin can perform CRUD operation in Questions and Options. 
+When project is loaded the fron page show the 'Employee Happiness Survey Form' and in that
+employee need to fill their Employee ID and Email ID and answer the question by selecting the 
+radio button.
+All the survey data will be stored in Mysql Database and its available in admin panel to see all
+the individuals happiness score.
+
+Technical Info : Project is made on Laravel 8 with Mysql Database
